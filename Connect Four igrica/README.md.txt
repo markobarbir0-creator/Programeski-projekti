@@ -4,7 +4,7 @@ Implementacija klasične igre Connect Four u programskom jeziku C++ koristeći b
 
 **Značajke:**
 - Grafičko sučelje izrađeno pomoću SFML-a
-- Igra za dva igrača
+- Igra za jednog ili dva igrača
 - Provjera pobjede na temelju povezanih žetona
 - Organizacija koda kroz klase i zasebne datoteke
 
